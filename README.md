@@ -1,4 +1,4 @@
-<img scr="Aprendendo.png" alt="Basic project to learn">
+<img src="Aprendendo.png" alt="Basic projects to learn">
 
 # Projetos básicos para o aprendizado
 Nesse repositório, estão alguns projetos que fiz com a ajuda de alguns eventos, como por exemplo a Semana de Imersão de Dados da Alura e a Semana de Python realizada pela a empresa Hashtag.
